@@ -1,0 +1,7 @@
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'flowbite/dist/flowbite.css';
+
+/* You can add global styles to this file, and also import other style files */
